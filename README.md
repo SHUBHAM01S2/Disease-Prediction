@@ -132,7 +132,7 @@ It will:
 
 ## 🚀 Future Improvements
 
-* Add **confusion matrices** for better error analysis
+
 * Hyperparameter tuning using **Optuna**
 * Deploy model via **FastAPI/Streamlit** for interactive predictions
 
